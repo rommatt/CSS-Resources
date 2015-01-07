@@ -1,7 +1,11 @@
 CSS-Resources
 =============
 
-Repository for CSS related information
+Repository for Sass/CSS related information
+
+<h3>Sass</h3>
+
+http://sass-guidelin.es/
 
 <h3>Flexbox</h3>
 
