@@ -9,6 +9,8 @@ http://sass-guidelin.es/
 
 http://refills.bourbon.io/
 
+https://github.com/ModernInc/modern-style
+
 <h3>Flexbox</h3>
 
 http://chriswrightdesign.com/experiments/flexbox-adventures/
