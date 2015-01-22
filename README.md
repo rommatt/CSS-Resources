@@ -11,6 +11,10 @@ http://refills.bourbon.io/
 
 https://github.com/ModernInc/modern-style
 
+http://blog.hovercraft.ie/post/105017051506/sass-colour-variables-and-the-maintainability
+
+http://alistapart.com/article/a-vision-for-our-sass
+
 <h3>Flexbox</h3>
 
 http://chriswrightdesign.com/experiments/flexbox-adventures/
