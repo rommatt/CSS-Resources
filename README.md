@@ -5,6 +5,8 @@ Repository for Sass/CSS related information
 
 <h3>Sass</h3>
 
+https://github.com/ttbarnes/sass-quick-start
+
 http://sass-guidelin.es/
 
 http://refills.bourbon.io/
