@@ -27,6 +27,8 @@ http://flexboxin5.com/
 
 <h3>SVG</h3>
 
+http://www.smashingmagazine.com/2015/05/11/creating-responsive-shapes-with-clip-path/
+
 https://ihatetomatoes.net/3-things-to-watch-out-for-in-2015/
 
 http://unicorn-ui.com/demo/svg.html#.VPN0FyzSo44.reddit
