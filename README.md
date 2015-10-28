@@ -51,3 +51,7 @@ http://alfredobarron.github.io/smoke/#/
 
 <h3>Sticky Header</h3>
 https://markgoodyear.com/labs/headhesive/
+
+<h3>Button Effects</h3>
+
+http://www.noupe.com/design/20-code-snippets-for-interactive-buttons-93374.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Noupe+%28noupe%29&utm_content=Netvibes
