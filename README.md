@@ -5,6 +5,8 @@ Repository for Sass/CSS related information
 
 <h3>Sass</h3>
 
+https://viget.com/inspire/angled-edges-with-css-masks-and-transforms?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Viget+Inspire&utm_content=Netvibes#When:12:26   // Angled edges
+
 http://zurb.com/playground/motion-ui
 
 https://medium.com/@umayr/from-the-plains-of-css-to-the-mountains-of-sass-6e9f586bbc78
