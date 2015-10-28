@@ -33,6 +33,8 @@ http://flexboxin5.com/
 
 <h3>SVG</h3>
 
+http://svgpocketguide.com/book/
+
 http://snapsvg.io/
 
 http://www.smashingmagazine.com/2015/05/11/creating-responsive-shapes-with-clip-path/
