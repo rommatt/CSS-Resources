@@ -45,6 +45,8 @@ http://flexboxin5.com/
 
 <h3>SVG</h3>
 
+https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035#.t5unknybr  /// optimizing SVG sizes
+
 http://svgpocketguide.com/book/
 
 http://snapsvg.io/
