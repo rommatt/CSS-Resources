@@ -3,6 +3,8 @@ Sass/CSS-Resources
 
 Repository for Sass/CSS related information
 
+https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats
+
 <h3>Frameworks</h3>
 
 http://colourgarden.net/avalanche/   /// nice 
