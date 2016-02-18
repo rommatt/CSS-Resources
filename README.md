@@ -15,6 +15,8 @@ http://getuikit.com/index.html
 
 <h3>Sass</h3>
 
+https://css-tricks.com/snippets/sass/simple-asset-helper-functions/  // img url helper
+
 https://medium.com/@pstonier/using-bourbon-neat-for-css-grid-structure-with-semantic-markup-cd1b13d48dc1 // Bourbon / Neat
 
 https://viget.com/inspire/angled-edges-with-css-masks-and-transforms?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Viget+Inspire&utm_content=Netvibes#When:12:26   // Angled edges
