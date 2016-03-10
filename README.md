@@ -15,6 +15,8 @@ http://getuikit.com/index.html
 
 <h3>Sass</h3>
 
+http://thesassway.com/beginner/how-to-structure-a-sass-project  // Sass project structure
+
 http://thepixelbeard.com/best-sass-mixin-libraries/
 
 https://css-tricks.com/snippets/sass/simple-asset-helper-functions/  // img url helper
