@@ -69,6 +69,8 @@ http://unicorn-ui.com/demo/svg.html#.VPN0FyzSo44.reddit
 
 <h3>Bootstrap</h3>
 
+https://dotdev.co/bootstrap-4-whats-new-visual-guide-c84dd81d8387#.cxn6ktpy1  /// Bootstrap 4
+
 http://alfredobarron.github.io/smoke/#/
 
 <h3>Sticky Header</h3>
