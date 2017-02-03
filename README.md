@@ -51,6 +51,8 @@ http://alistapart.com/article/a-vision-for-our-sass
 
 <h3>Flexbox</h3>
 
+https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.dvyxrrm4v  // Good tutorials
+
 http://flexbox.io/#/
 
 http://chriswrightdesign.com/experiments/flexbox-adventures/
