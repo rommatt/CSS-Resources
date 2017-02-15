@@ -17,6 +17,8 @@ http://getuikit.com/index.html
 
 <h3>Sass</h3>
 
+https://css-tricks.com/creating-non-rectangular-headers/
+
 https://thoughtbot.com/upcase/bourbon-smash
 
 http://forkbombs.com/blog/learning-sass-building-components-with-mixins/
