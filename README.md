@@ -3,6 +3,8 @@ Sass/CSS-Resources
 
 Repository for Sass/CSS related information
 
+https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/    // CSS Grid Layout
+
 http://cssreference.io/
 
 https://robots.thoughtbot.com/basic-css-selectors-explained-with-cats
