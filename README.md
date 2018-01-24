@@ -63,6 +63,10 @@ http://chriswrightdesign.com/experiments/flexbox-adventures/
 
 http://flexboxin5.com/
 
+<h3>CSS Grid</h3>
+
+https://stripe.com/blog/connect-front-end-experience
+
 <h3>SVG</h3>
 
 https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035#.t5unknybr  /// optimizing SVG sizes
