@@ -103,3 +103,8 @@ http://www.noupe.com/design/20-code-snippets-for-interactive-buttons-93374.html?
 <h3>CSS for Email</h3>
 
 https://www.campaignmonitor.com/css/
+
+<h3>API</h3>
+
+https://medium.com/free-code-camp/what-is-an-api-in-english-please-b880a3214a82
+  
