@@ -1,4 +1,4 @@
-Sass/CSS-Resources
+Sass/CSS/Development-Resources
 =============
 
 Repository for Sass/CSS related information
